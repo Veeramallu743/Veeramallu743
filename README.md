@@ -258,10 +258,10 @@ My current focus is building:
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn URL
-- 🌐 Portfolio: Add your portfolio URL
-- 💻 GitHub: Add your GitHub URL
-- 📧 Email: Add your professional email
+- 💼 LinkedIn: www.linkedin.com/in/veer-mallu-a2a4ab255
+- 🌐 Portfolio: https://veeramallu743.github.io/My_Portfolio
+- 💻 GitHub: https://github.com/Veeramallu743
+- 📧 Email: Veeramallu67@gmail.com
 
 ---
 
