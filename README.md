@@ -1,4 +1,4 @@
-# Hi, I'm Veeramallu 👋
+# Hi, I'm Veer mallu 👋
 
 ## AI Engineer | Generative AI | Agentic AI | RAG | MLOps | GCP
 
